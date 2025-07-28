@@ -35,7 +35,7 @@ This data enables a comprehensive analysis of customer satisfaction and loyalty 
 -	Non-repeat: (51) Over half of our customers have purchased more than once, which indicates a decent level of return business.
 -	Countries Covered: (10) These customers are spread across 10 different countries, as seen on the map.
 -	Average Satisfaction Score: (5.35 / 10) On average, our customers are moderately satisfied. This is neither excellent nor poor, it shows room for improvement.
-### Satisfaction Breakdown across all
+### Satisfaction Breakdown Across All
 - **The Matrix Visual**: illustrates the average customer satisfaction score across various experience-related factors, helping us understand what’s driving satisfaction and where gaps may exist.
 
 Some factors, like Product Quality, packaging, product variety have higher satisfaction scores, indicating that customers are pleased with those areas. Others, such as ease to use, features, price, support availability, brand reputation show lower scores, signaling potential dissatisfaction or unmet expectations.
