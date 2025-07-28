@@ -27,7 +27,7 @@ This data enables a comprehensive analysis of customer satisfaction and loyalty 
 
 ## Data Analysis
 #### Customer Satisfaction
-<img width="1339" height="752" alt="Screenshot 2025-07-28 150618" src="https://github.com/user-attachments/assets/f40b6743-851e-4da2-a0c8-fb1094f75f2b" />
+<img width="1342" height="750" alt="Screenshot 2025-07-28 192258" src="https://github.com/user-attachments/assets/f44aae8c-6779-4970-a0fb-9ed13f873bf0" />
 
 ### Key Metrics:
 -	Total Customers: (120) We gathered feedback from 120 customers.
