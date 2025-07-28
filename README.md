@@ -30,15 +30,11 @@ This data enables a comprehensive analysis of customer satisfaction and loyalty 
 <img width="1339" height="752" alt="Screenshot 2025-07-28 150618" src="https://github.com/user-attachments/assets/f40b6743-851e-4da2-a0c8-fb1094f75f2b" />
 #### Key Metrics:
 
--	Total Customers: 120
-##### We gathered feedback from 120 customers.
+-	Total Customers: (120) We gathered feedback from 120 customers.
 - Repeat Purchasers: 69 
--	Non-repeat: 51
-##### Over half of our customers have purchased more than once, which indicates a decent level of return business.
--	Countries Covered: 10
-##### These customers are spread across 10 different countries—mainly in the U.S., as seen on the map.
--	Average Satisfaction Score: 5.35 / 10
-##### On average, our customers are moderately satisfied. This is neither excellent nor poor—it shows room for improvement.
+-	Non-repeat: (51) Over half of our customers have purchased more than once, which indicates a decent level of return business.
+-	Countries Covered: (10) These customers are spread across 10 different countries—mainly in the U.S., as seen on the map.
+-	Average Satisfaction Score: (5.35 / 10) On average, our customers are moderately satisfied. This is neither excellent nor poor, it shows room for improvement.
 
 
 
