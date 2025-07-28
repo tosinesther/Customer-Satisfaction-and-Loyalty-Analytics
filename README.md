@@ -44,10 +44,12 @@ Some factors, like Product Quality, packaging, product variety have higher satis
   
  Support Contacted is currently not a key driver of customer satisfaction, meaning that our support service is neutral, support isn’t affecting satisfaction negatively , but it’s not adding value either.. We should consider making it more impactful
 
-- Clusttered Bar Chart: Low-loyalty customers are more satisfied than even the high-loyalty ones — this is unusual, Meaning that high satisfaction does not guarantee loyal customers.
+- **Clusttered Bar Chart**: Low-loyalty customers are more satisfied than even the high-loyalty ones — this is unusual, Meaning that high satisfaction does not guarantee loyal customers.
 - The Line and Clustered Column Chart:
-- Clusttered Bar Chart: •	Repeat customers has an Average score of 5.62 while One-time buyers is 4.98 This clearly shows that customers who come back are more satisfied— we can say retention is linked to satisfaction.
-- Clustered Column Chart: this chart lists the satusfaction factor with the most dissatisfied customers (low scores). Top 3 complaints include:Ease of Use, Brand Reputation, Support Availability
+  
+- **Clusttered Bar Chart**: •	Repeat customers has an Average score of 5.62 while One-time buyers is 4.98 This clearly shows that customers who come back are more satisfied— we can say retention is linked to satisfaction.
+  
+- **Clustered Column Chart**: this chart lists the satusfaction factor with the most dissatisfied customers (low scores). Top 3 complaints include:Ease of Use, Brand Reputation, Support Availability
 These three are our main pain points. Fixing them could significantly improve satisfaction loyalty and definitely will lead to increase in number of repeat purchasers.
 
 
