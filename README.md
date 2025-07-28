@@ -44,6 +44,11 @@ Some factors, like Product Quality, packaging, product variety have higher satis
   
  Support Contacted is currently not a key driver of customer satisfaction, meaning that our support service is neutral, support isn’t affecting satisfaction negatively , but it’s not adding value either.. We should consider making it more impactful
 
+- Clusttered Column Chart: •	Low-loyalty customers are more satisfied than even the high-loyalty ones — this is unusual and requires investigation.
+
+ Meaning that high satisfaction does not guarantee loyal customers. 
+
+
 
 
 
