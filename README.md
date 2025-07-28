@@ -40,9 +40,8 @@ This data enables a comprehensive analysis of customer satisfaction and loyalty 
 
 Some factors, like Product Quality, packaging, product variety have higher satisfaction scores, indicating that customers are pleased with those areas. Others, such as ease to use, features, price, support availability, brand reputation show lower scores, signaling potential dissatisfaction or unmet expectations.
 
-- **The Doghnut Chart**: Customers who contacted support had an average score of 5.36.
-                            Those who didn’t had 5.34.
-
+- **The Doghnut Chart**: Customers who contacted support had an average score of 5.36. Those who didn’t had 5.34.
+- Support Contacted is currently not a key driver of customer satisfaction, meaning that our support service is neutral, support isn’t affecting satisfaction negatively , but it’s not adding value either.. We should consider making it more impactful
 
 
 
