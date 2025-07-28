@@ -7,3 +7,9 @@
 -	Measure the impact of support contact and repeat purchases.
 -	Spot regional trends in satisfaction and loyalty.
 -	Guide improvements in service, pricing, and product offerings.
+### Key features of the dashboard:
+-	Interactive visualizations
+-	Data-driven insights
+-	Customizable metrics
+-	User-friendly interface
+
