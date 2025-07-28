@@ -25,6 +25,8 @@ The dataset for this project was provided by Onyx, a data solutions provider. It
 - Location data: City, state, and country
 This data enables a comprehensive analysis of customer satisfaction and loyalty trends across regions and customer segments.
 
+### Data Analysis
+#### Customer Satisfaction
 <img width="1339" height="752" alt="Screenshot 2025-07-28 150618" src="https://github.com/user-attachments/assets/f40b6743-851e-4da2-a0c8-fb1094f75f2b" />
 
 
