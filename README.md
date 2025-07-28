@@ -13,4 +13,16 @@
 -	Customizable metrics
 -	User-friendly interface
 ### Tools and Data Source
+#### Tools:
+Power BI, Excel, DAX
+#### Data Source
+The dataset for this project was provided by Onyx, a data solutions provider. It contains 2024 customer feedback records collected by OmniRetail, a U.S.-based retailer specializing in electronics and smart home products, sold through both online and physical stores.
+#### The dataset includes:
+- Satisfaction data: Overall satisfaction scores and ratings by specific factors (e.g., product quality, delivery speed, support availability)
+- Customer behavior: Purchase history (repeat vs. one-time), support interaction
+- Demographic attributes: Age group and gender
+- Loyalty indicators: Loyalty level and satisfaction category
+- Location data: City, state, and country
+This data enables a comprehensive analysis of customer satisfaction and loyalty trends across regions and customer segments.
+
 
