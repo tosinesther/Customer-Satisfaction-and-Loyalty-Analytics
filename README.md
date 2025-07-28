@@ -51,6 +51,11 @@ Some factors, like Product Quality, packaging, product variety have higher satis
   
 - **Clustered Column Chart**: this chart lists the satusfaction factor with the most dissatisfied customers (low scores). Top 3 complaints include:Ease of Use, Brand Reputation, Support Availability
 These three are our main pain points. Fixing them could significantly improve satisfaction loyalty and definitely will lead to increase in number of repeat purchasers.
+### Loyalty Analysis
+<img width="1346" height="754" alt="Screenshot 2025-07-28 192534" src="https://github.com/user-attachments/assets/579526c5-9a27-44b6-8419-c7401dc99a29" />
+- Clustered Column Chart: Breakdown of total customers based on satisfaction categories (High, Medium, Low) by gender
+
+ Females show a higher number in the low satisfaction category (28) they are less satisfied overall than male customers. While Males are more evenly distributed.
 
 
 
