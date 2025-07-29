@@ -62,7 +62,7 @@ These three are our main pain points. Fixing them could significantly improve sa
 - **Loyal Customers By Gender(Matrix Chart)**: More female customers fall into the Low Loyalty group, which aligns with low satisfaction. Males tend to lean toward the High Loyalty group more.
 - **Clustered Bar Chart**: We have the Largest customer segment to be Age 55–60. Other strong groups: 35–39, 45–49. Smaller numbers in 25–29 and under
 
-Older customers tend to be more loyal, especially in the 55–60 group. While Younger groups are underrepresented, and those who are present are not particularly loyal.
+  Older customers tend to be more loyal, especially in the 55–60 group. While Younger groups are underrepresented, and those who are present are not particularly loyal.
 
 
 
