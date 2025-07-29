@@ -59,8 +59,10 @@ These three are our main pain points. Fixing them could significantly improve sa
    Females show a higher number in the low satisfaction category (28) they are less satisfied overall than male customers. While Males are more evenly distributed.
  
  - **Satisfaction Factor By Gender (Matrix chart)**: Female customers love the features and customer service, but struggle with usability and value for money and support availabilty. Male customers value ease of use, product quality and packaging more, and have stronger brand trust than the female.
-- **Loyal Cujstomers By Gender(Matrix Chart)**: More female customers fall into the Low Loyalty group, which aligns with low satisfaction. Males tend to lean toward the High Loyalty group more often.
+- **Loyal Customers By Gender(Matrix Chart)**: More female customers fall into the Low Loyalty group, which aligns with low satisfaction. Males tend to lean toward the High Loyalty group more.
+- **Clustered Bar Chart**: We have the Largest customer segment to be Age 55–60. Other strong groups: 35–39, 45–49. Smaller numbers in 25–29 and under
 
+Older customers tend to be more loyal, especially in the 55–60 group. While Younger groups are underrepresented, and those who are present are not particularly loyal.
 
 
 
