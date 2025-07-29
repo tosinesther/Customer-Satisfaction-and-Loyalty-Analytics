@@ -57,7 +57,7 @@ These three are our main pain points. Fixing them could significantly improve sa
 - **Clustered Column Chart**: Breakdown of total customers based on satisfaction categories (High, Medium, Low) by gender.
 
  Females show a higher number in the low satisfaction category (28) they are less satisfied overall than male customers. While Males are more evenly distributed.
-- 
+
 
 
 
