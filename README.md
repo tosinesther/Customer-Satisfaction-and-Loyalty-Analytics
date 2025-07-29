@@ -66,7 +66,7 @@ These three are our main pain points. Fixing them could significantly improve sa
 
   Older customers tend to be more loyal, especially in the 55–60 group. While Younger groups are underrepresented, and those who are present are not particularly loyal.
 
-### Recommendations
+## Recommendations
 - Based on the analysis, OmniRetail should prioritize improving key pain points such as price perception, support availability, Features, ease to use and brand reputation, as these factors received the lowest satisfaction scores and contributed most to customer dissatisfaction.
 
 #### Efforts should also focus on:
