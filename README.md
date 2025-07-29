@@ -56,7 +56,7 @@ These three are our main pain points. Fixing them could significantly improve sa
 
 - **Clustered Column Chart**: Breakdown of total customers based on satisfaction categories (High, Medium, Low) by gender.
 
- Females show a higher number in the low satisfaction category (28) they are less satisfied overall than male customers. While Males are more evenly distributed.
+   Females show a higher number in the low satisfaction category (28) they are less satisfied overall than male customers. While Males are more evenly distributed.
  
  - **Satisfaction Factor By Gender (Matrix chart)**: Female customers love the features and customer service, but struggle with usability and value for money and support availabilty. Male customers value ease of use, product quality and packaging more, and have stronger brand trust than the female.
 
