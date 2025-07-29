@@ -54,6 +54,7 @@ These three are our main pain points. Fixing them could significantly improve sa
 ### Loyalty Analysis
 <img width="1346" height="754" alt="Screenshot 2025-07-28 192534" src="https://github.com/user-attachments/assets/579526c5-9a27-44b6-8419-c7401dc99a29" />
 
+- **Map Chart**: Some locations have more non-repeat buyers, suggesting lower loyalty in those regions.
 - **Clustered Column Chart**: Breakdown of total customers based on satisfaction categories (High, Medium, Low) by gender.
 
    Females show a higher number in the low satisfaction category (28) they are less satisfied overall than male customers. While Males are more evenly distributed.
